@@ -1,6 +1,7 @@
 """
-This program will print out Hello World
-Name - Date
+This is a first program to output Hello World to the console. It will then
+be enhanced to ask the user for their name and greet them by name.
+Name - Month Year
 """
 
 
@@ -9,6 +10,6 @@ def main() -> None:
 
 
 
-# don't change anything below this line
+# main guard
 if __name__ == "__main__":
     main()
