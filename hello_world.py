@@ -4,11 +4,8 @@ be enhanced to ask the user for their name and greet them by name.
 Name - Month Year
 """
 
-
 def main() -> None:
     pass
-
-
 
 # main guard
 if __name__ == "__main__":
